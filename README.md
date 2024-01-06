@@ -16,6 +16,9 @@ If you don't have MySQL downloaded the website will not function. On mac you wil
 ### 3. Set Up PHP
 Same with MySQL, install php onto the terminal. Then type "cd" along with the folder file path of the website files. Then to make the domain on the local computer, write "php -S localhost:8080". Return to the `Functions.php` file and initialize `$serverName` as "localhost". Have fun!
 
+### 4. Extra
+If you want to test the email stuff enter the `ContactUs.php` file and edit the email ID at the bottom.
+
 ## About the Developers
 At the moment the one running the account is the only one working on this project. Find out more about me on LinkedIn and on the website.
 
